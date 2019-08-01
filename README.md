@@ -1,0 +1,1 @@
+This repository contains a basic node starter application in ES6. This can be cloned to start other node projects in ES6 since it has babel configured already.
